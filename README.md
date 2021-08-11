@@ -1,6 +1,6 @@
-## eth-discord-bot
+## Eth-Discord-Bot
 
-### Project Overview
+## Project Overview
 Implement a python bot that collects price data for Ethereum and generates uptrend/downtrend signals to send to your Discord channel.
 This project was largely guided and inspired by the YouTube series of a much better programmer. Please look through his GitHub and YouTube for similar cryptocurrency/stock market projects in python.
  - PTL YouTube link here
@@ -22,9 +22,6 @@ This project was largely guided and inspired by the YouTube series of a much bet
 #### Requests
 - Used to post message in discord with json data
 - Link
-
-
-### Future improvements or TODOS on the project?
 
 
 
