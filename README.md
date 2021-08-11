@@ -6,20 +6,20 @@ This project was largely guided and inspired by the YouTube series of a much bet
  - PTL YouTube link here
  - PTL Github link here
 
-###Libraries, Frameworks, Packages used?
-####CCXT
+### Libraries, Frameworks, Packages used?
+#### CCXT
 - CCXT is used for blah 
 - Here's a link
 
-####Yahoo Finance
+#### Yahoo Finance
 - Yfinance is used for stock data 
 - Here's a link
 
-####Pandas and Pandas_ta
+#### Pandas and Pandas_ta
 - Both are used for data manipulation, 
 - Learn more about pandas dataframes here:
 
-####Requests
+#### Requests
 - Used to post message in discord with json data
 - Link
 
