@@ -6,7 +6,9 @@ This project was largely guided and inspired by the YouTube series of a much bet
  - PTL YouTube link here
  - PTL Github link here
 
-### Libraries, Frameworks, Packages used?
+
+
+## Libraries, Frameworks, Packages used
 #### CCXT
 - CCXT is used for blah 
 - Here's a link
