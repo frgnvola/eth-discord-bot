@@ -1,14 +1,16 @@
-# eth-discord-bot
+### eth-discord-bot
 
-### TODO: Fillout this ReadMe
+### Project Overview
+#### Definitely include a link to Part Time Larry also
 
-### What is the goal of the project? Which tools do we use?
-### What libraries, frameworks, packages are used?
+
+### Libraries, Frameworks, Packages used?
+#### Include links to relevant libraries etc?
+
+
 ### Future improvements or TODOS on the project?
 
 
-### Include links to relevant libraries etc?
-### Definitely include a link to Part Time Larry also
 
 
 
