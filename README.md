@@ -8,7 +8,7 @@ This project was largely guided and inspired by the YouTube series of a much bet
 
 
 
-## Libraries, Frameworks, Packages used
+## Libraries used in this project
 #### Binance CCXT
 - The CCXT library has 'exchange' classes from which we obtain price data
 - [Learn More about the Binance CCXT library](https://ccxt.readthedocs.io/en/latest/manual.html)
