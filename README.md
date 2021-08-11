@@ -9,17 +9,17 @@ This project was largely guided and inspired by the YouTube series of a much bet
 ### Libraries, Frameworks, Packages used?
 - import ccxt, yfinance, pandas_ta as ta, pandas as pd, requests
 ####CCXT
- - CCXT is used for blah 
- - Here's a link
+- CCXT is used for blah 
+- Here's a link
 ####Yahoo Finance
- - Yfinance is used for stock data 
- - Here's a link
+- Yfinance is used for stock data 
+- Here's a link
 ####Pandas and Pandas_ta
- - Both are used for data manipulation, 
- - Learn more about pandas dataframes here:
+- Both are used for data manipulation, 
+- Learn more about pandas dataframes here:
 ####Requests
- - Used to post message in discord with json data
- - Link
+- Used to post message in discord with json data
+- Link
 
 
 ### Future improvements or TODOS on the project?
